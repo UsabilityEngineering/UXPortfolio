@@ -6,3 +6,4 @@
 
 ## UX Journal
 
+[Read about my experience with Bash](j01/)
